@@ -12,8 +12,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Programming Languages Proficiency
 
@@ -23,8 +22,6 @@ I'm a passionate software developer with a love for creating innovative solution
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python** - 80%
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) **Java** - 70%
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **C++** - 65%
-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) **Arduino** - 60%
-- ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white) **Blender** - 50%
 
 ## 📚 Projects
 
@@ -34,12 +31,12 @@ Description of project 1.
 ### [Web Album]([https://github.com/yourusername/project2](https://github.com/Frizqifdh/Websitealbum))
 Description of project 2.
 
-### [Wweb Absensi]([https://github.com/yourusername/project3](https://github.com/Frizqifdh/Absensiweb))
+### [Web Absensi]([https://github.com/yourusername/project3](https://github.com/Frizqifdh/Absensiweb))
 Description of project 3.
 
 ## 📫 Contact Me
 
-- Email: hazardon440@gmail.com
+- !![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): hazardon440@gmail.com
 
 ## 🎯 Goals
 
