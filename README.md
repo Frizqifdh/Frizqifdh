@@ -22,7 +22,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python** - 80%
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) **Java** - 70%
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **C++** - 65%
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) **C#** - 25%
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) **C#** - 55%
 
 ## 📚 Projects
 
