@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Frizqifdh!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
@@ -17,31 +17,29 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ### Programming Languages Proficiency
 
-- **HTML5** - 90%
-- **CSS3** - 85%
-- **JavaScript** - 75%
-- **Python** - 80%
-- **Java** - 70%
-- **C++** - 65%
-- **Arduino** - 60%
-- **Blender** - 50%
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** - 90%
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3** - 85%
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript** - 75%
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python** - 80%
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) **Java** - 70%
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **C++** - 65%
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) **Arduino** - 60%
+- ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white) **Blender** - 50%
 
 ## 📚 Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
+### [To-Do List]([https://github.com/yourusername/project1](https://github.com/Frizqifdh/todolist.simple.github.io))
 Description of project 1.
 
-### [Project Name 2](https://github.com/yourusername/project2)
+### [Web Album]([https://github.com/yourusername/project2](https://github.com/Frizqifdh/Websitealbum))
 Description of project 2.
 
-### [Project Name 3](https://github.com/yourusername/project3)
+### [Wweb Absensi]([https://github.com/yourusername/project3](https://github.com/Frizqifdh/Absensiweb))
 Description of project 3.
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Twitter: [Your Twitter](https://twitter.com/yourusername)
-- Email: yourname@example.com
+- Email: hazardon440@gmail.com
 
 ## 🎯 Goals
 
